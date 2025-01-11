@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:45328/</loc>
+    <loc>http://localhost:46155/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:45328/pt-br/"
+                href="http://localhost:46155/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:45328/"
+                href="http://localhost:46155/"
                 />
   </url><url>
-    <loc>http://localhost:45328/authors/</loc>
+    <loc>http://localhost:46155/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:45328/pt-br/authors/"
+                href="http://localhost:46155/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:45328/authors/"
+                href="http://localhost:46155/authors/"
                 />
   </url><url>
-    <loc>http://localhost:45328/categories/</loc>
+    <loc>http://localhost:46155/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:45328/pt-br/categories/"
+                href="http://localhost:46155/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:45328/categories/"
+                href="http://localhost:46155/categories/"
                 />
   </url><url>
-    <loc>http://localhost:45328/series/</loc>
+    <loc>http://localhost:46155/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:45328/pt-br/series/"
+                href="http://localhost:46155/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:45328/series/"
+                href="http://localhost:46155/series/"
                 />
   </url><url>
-    <loc>http://localhost:45328/tags/</loc>
+    <loc>http://localhost:46155/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:45328/pt-br/tags/"
+                href="http://localhost:46155/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:45328/tags/"
+                href="http://localhost:46155/tags/"
                 />
   </url>
 </urlset>
