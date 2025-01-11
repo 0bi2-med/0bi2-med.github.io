@@ -1,4 +1,4 @@
-baseURL = 
+baseURL = 'https://www.0bi2-med.blog/'
 title = "0bi2-med"
 theme = "hugo-coder"
 languageCode = "en"
